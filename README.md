@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nischal Neupane</h1>
-<h4 align="center">I am IT engineering student |</h4>
+<h4 align="center">I am currently studying IT engineering  </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonischu&label=Profile%20views&color=0e75b6&style=flat" alt="leonischu" /> </p>
 
