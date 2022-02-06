@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonischu&label=Profile%20views&color=0e75b6&style=flat" alt="leonischu" /> </p>
 
-- 🔭 I’m currently working on **Learning Programming**
-
 - 🌱 I’m currently learning **C C++ Pyhton**
 
 - 👯 I’m looking to collaborate on **Nothing**
