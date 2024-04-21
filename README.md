@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonischu&label=Profile%20views&color=0e75b6&style=flat" alt="leonischu" /> </p>
 
-- 🌱 I’m currently learning **C C++ Python**
+- 🌱 I’m currently learning **C C++ Python ,React,Java**
 
 - 👯 I’m  available to collaborate 
 
